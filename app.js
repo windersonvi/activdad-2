@@ -80,5 +80,5 @@ function eliminarActividad(indice) {
     actualizarLista();
 }
 
-// Escuchar el evento submit del formulario
+
 form.addEventListener('submit', agregarActividad);
